@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1570148708 source:c:\users\absolute\documents\homework\cs2xx\lab55\main.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1570148285 c:\users\absolute\documents\homework\cs2xx\lab55\employee.h
+	<string>
+	<iostream>
+
+1570148558 source:c:\users\absolute\documents\homework\cs2xx\lab55\employee.cpp
+	<string>
+	<iostream>
+	"Employee.h"
+
+1570148558 source:c:\users\absolute\documents\homework\cs2xx\lab5\employee.cpp
+	<string>
+	<iostream>
+	"Employee.h"
+
+1570149135 c:\users\absolute\documents\homework\cs2xx\lab5\employee.h
+	<string>
+	<iostream>
+
