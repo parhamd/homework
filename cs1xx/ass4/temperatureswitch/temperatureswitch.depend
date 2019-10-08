@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570220328 source:c:\users\absolute\documents\homework\cs1xx\ass4\temperatureswitch\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
