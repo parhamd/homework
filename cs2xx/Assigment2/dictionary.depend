@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572493988 source:c:\users\absolute\documents\dictionary\main.cpp
+	"Dictionary.h"
+
+1572498693 c:\users\absolute\documents\dictionary\dictionary.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
